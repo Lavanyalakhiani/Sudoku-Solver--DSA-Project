@@ -26,3 +26,7 @@ To use the Sudoku solver, you need to provide a Sudoku puzzle as input. The puzz
 
 ![image](https://github.com/Lavanyalakhiani/Sudoku-Solver--DSA-Project/assets/124029579/1783ed0e-a028-4fcc-aa78-66c0d7441f04)
 
+OUTPUT::::
+
+![image](https://github.com/Lavanyalakhiani/Sudoku-Solver--DSA-Project/assets/124029579/95d126fb-0e54-4896-9e34-9154cddd4c89)
+

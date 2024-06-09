@@ -5,7 +5,7 @@ This project is a Sudoku solver that uses backtracking and recursion to solve Su
 
 The goal of this project is to demonstrate the application of Data Structures and Algorithms (DSA) in solving a real-world problem. By using backtracking and recursion, we can efficiently solve even the most complex Sudoku puzzles.
 
-Features:
+## Features:
 -> Solves any valid Sudoku puzzle.
 -> Uses backtracking and recursion for an efficient solution.
 -> Provides a clear and concise implementation of the algorithm.

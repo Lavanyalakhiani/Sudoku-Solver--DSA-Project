@@ -11,7 +11,7 @@ The goal of this project is to demonstrate the application of Data Structures an
 -> Provides a clear and concise implementation of the algorithm.
 -> Easy to understand and extend.
 
-Algorithm:
+## Algorithm:
 The Sudoku solver uses a backtracking algorithm, which is a depth-first search algorithm for finding all solutions to a problem by trying out all possible configurations and backtracking as soon as it determines that a configuration is invalid. Here's a high-level overview of the algorithm:
 
 1. Find an empty cell: Traverse the grid to find an empty cell.
@@ -21,12 +21,12 @@ The Sudoku solver uses a backtracking algorithm, which is a depth-first search a
 5. Backtrack: If placing the current value leads to no solution, remove it (backtrack) and try the next value.
 6. Solution found: If the grid is completely filled without conflicts, a solution is found.
 
-Usage:
+## Usage:
 To use the Sudoku solver, you need to provide a Sudoku puzzle as input. The puzzle should be in the form of a 9x9 grid, with zeros representing empty cells. The solver will fill in the grid with the solution.
 
 ![image](https://github.com/Lavanyalakhiani/Sudoku-Solver--DSA-Project/assets/124029579/1783ed0e-a028-4fcc-aa78-66c0d7441f04)
 
-OUTPUT::::
+# OUTPUT::::
 
 ![image](https://github.com/Lavanyalakhiani/Sudoku-Solver--DSA-Project/assets/124029579/95d126fb-0e54-4896-9e34-9154cddd4c89)
 
